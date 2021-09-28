@@ -8,7 +8,7 @@ layout: compress
 
 <body>
   <main>
-    {% include anchor_headings.html html=content anchorBody="#" %}
+    {% include anchor_headings.html beforeHeading=true html=content anchorBody="#" %}
   </main>
 
   <script>
@@ -55,7 +55,6 @@ layout: compress
   </div>
 </footer>
 
-
 {% if page.url == '/' %}
   <script src="{{ site.url }}{{ site.baseurl }}/assets/js/simple-jekyll-search.js"></script>
   <script>
@@ -70,6 +69,5 @@ layout: compress
     })
   </script>
   {% endif %}
-
 
 </html>
