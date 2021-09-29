@@ -8,9 +8,9 @@ tags: research
 - Research game based learning
 
 ### Summary
-After some initial research I have begun looking into game based learning which is a more suitable terminology to use for the project I want to create.
+After some initial research I have begun looking into game based learning which is a more suitable terminology to use for the project I want to create. I have found useful information regarding the effectiveness of Game Based Learning as well as tips and techniques for implementing Game Based Learning.
 
-I have started creating a mind map of ideas and thoughts about possible topics and game styles.
+I have also started creating a mind map of ideas and thoughts about possible topics I could base my game upon as well as potential game genres would suit the project.
 
 ### Next Steps
 - Setup first supervisor meeting with Lloyd
