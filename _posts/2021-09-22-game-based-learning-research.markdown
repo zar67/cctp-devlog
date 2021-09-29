@@ -15,3 +15,4 @@ I have also started creating a mind map of ideas and thoughts about possible top
 ### Next Steps
 - Setup first supervisor meeting with Lloyd
 - Continue with game based learning research
+- Research current sex education curriculum requirements
