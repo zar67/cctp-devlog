@@ -35,7 +35,16 @@ These changes are heading in the right direction, but without the proper deliver
 Another article I read was a study by Dr Pandora Pound, investigating what young people think about their sex education - their views and experiences. 
 Reference: Pound P, Langford R, Campbell R. (2016) What do young people think about their school-based sex and relationship education? A qualitative synthesis of young people's views and experiences. BMJ Open [online]. 6 (9). [Accessed 05 October 2021].
 
-*TBD*
+The article is a summary of a collecition of studies on young people's views towards their sex education. In summary most students were not in favor of the current SRE curriculum and were requesting improvements to the information given and the delivery of SRE. 
+
+Some notable points, which resonated with me, were:
+- Sex is often portrayed negatively.
+- Schools refuse to accept that some students are already sexually active.
+- SRE topics are brought up too late and should be introduced to students at a younger age.
+- Topics are too biologically driven - there is no mention on sex being fun and pleasurable.
+- SRE is embarassing and there is judgement for not already knowing the information, pressuring students to not engage. 
+- SRE should not be taught by teachers but someone more specialised.
+- Students views remained the same over the 25 year span of the studies, meaning UK government policy changes has very little affect on the effectivness of SRE.
 
 I have also researched the current sex and relationships curriculum in the UK.
 
