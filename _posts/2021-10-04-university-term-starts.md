@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "University Term Starts"
-date: 2021-10-01 18:00:00 +0100
+date: 2021-10-04 18:00:00 +0100
 tags: proposal introduction
 ---
 ### Tasks
@@ -45,10 +45,6 @@ Some notable points, which resonated with me, were:
 - SRE is embarassing and there is judgement for not already knowing the information, pressuring students to not engage. 
 - SRE should not be taught by teachers but someone more specialised.
 - Students views remained the same over the 25 year span of the studies, meaning UK government policy changes has very little affect on the effectivness of SRE.
-
-I have also researched the current sex and relationships curriculum in the UK.
-
-*TBD*
 
 ### Next Steps
 - Setup an initial supervisory meeting with Lloyd.
