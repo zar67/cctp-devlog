@@ -18,6 +18,29 @@ We also discussed possibilities for testing my project; the ethics and requireme
 
 After the meeting, I collated the list of tasks for me to complete this week (listed above). I also will be consistantly working on my proposal over the next four weeks until the submission date. This week I will be looking at the suggestions Lloyd has made on my proposal as well as focusing on the Risks and Issues section. 
 
+Firstly, I added in some more research to my proposal regarding the number of young people who own and use a mobile phone, as well as statistics about how the use of the internet and mobile phones has increased over the years. This provides some context as to why mobile would be a good platform to target, since almost all secondary school children own a mobile phone and can access the internet. I got these facts and figures from Ofcom's Online Nation report as well as the International Telecommunication Union's Measuring digital development: Facts and figures 2020 report. 
+
+I also managed to refine and add to my learning objectives, and believe I have a variety of measurable objectives for my project, currently thay are as follows:
+
+**Project Objectives**
+> -	Produce an interactive learning experience to aid in sex education using gamified methods.
+> -	Provide a safe and comfortable environment for secondary school children to learn about sex.
+> -	Assess the levels of engagement offered by the application and methods used.
+
+
+**Research Objectives**
+> -	Research gamification and game-based learning methods and identify which should be used in the project.
+> -	Research the current sex education curriculum and establish what elements can be included in the project. 
+> -	Identify tools and platforms that will support delivery of the project artefact.
+
+
+**Learning Objectives**
+> -	Learn about the effectiveness of gamification and game-based learning and how it can be used in education.
+> -	Learn about modern gamification and game-based learning techniques and methods. 
+> -	Learn how to practically implement gamification and game-based learning.
 
 
 ### Next Steps
+- Add to the risks and issues section of the proposal
+- Research project management, testing, and development techniques
+- Fill out the methods, techniques, tools and process sections of the proposal
