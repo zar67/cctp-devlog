@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "First Supervisor Meeting"
-date: 2021-10-11 18:00:00 +0100
+date: 2021-10-17 18:00:00 +0100
 tags: proposal 
 ---
 ### Tasks

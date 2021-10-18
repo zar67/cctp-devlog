@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "University Term Starts"
-date: 2021-10-04 18:00:00 +0100
+date: 2021-10-10 18:00:00 +0100
 tags: proposal introduction
 ---
 ### Tasks
