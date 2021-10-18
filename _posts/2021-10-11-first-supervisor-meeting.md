@@ -52,9 +52,8 @@ I also looked on the govenment website to find the SRE curriculum for topics tha
 - Intimite and Sexual Relationships
 - The Law
 
-The final task I completed this week was to research common teaching methods for SRE.
-
 ### Next Steps
+- Research SRE teaching methods
 - Add to the risks and issues section of the proposal
 - Research project management, testing, and development techniques
 - Fill out the methods, techniques, tools and process sections of the proposal
