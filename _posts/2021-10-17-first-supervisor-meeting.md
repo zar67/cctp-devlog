@@ -8,7 +8,6 @@ tags: proposal
 - Have first supervisor meeting with Lloyd
 - Research UK SRE curriculum
 - Refine objectives into measurable goals
-- Research SRE teaching methods
 - Research game trends and popular games for inspiration
 
 ### Summary
@@ -53,7 +52,6 @@ I also looked on the govenment website to find the SRE curriculum for topics tha
 - The Law
 
 ### Next Steps
-- Research SRE teaching methods
 - Add to the risks and issues section of the proposal
 - Research project management, testing, and development techniques
 - Fill out the methods, techniques, tools and process sections of the proposal
