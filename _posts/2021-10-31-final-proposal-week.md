@@ -15,6 +15,10 @@ I started the week recieveing feedback from Lloyd regarding my proposal. I read 
 
 I started by digging into the pool of game based learning research I have already completed to find another researcher or two to add into the research section of my proposal. As game based learning is the main aspect of my project I needed to improve that part of the research sections a little more. I did this by explaining the contents of Kapp's Games, Gamification and the Quest for Learner Engagement from 2012 and including the Gamification in Education article by Kiryakova, Angelova and Yordanova in 2014.
 
-With this research added from work I had previously done, I then set out to look for more recent sources which stated that the SRE curriculum is outdated. I found a study in 2020 titled Teachers and pupils under pressure: UK teachers’ views on the content and format of personal, social, health and economic education which discussed all aspects of PSHE education. In the section on sex and relationships education the authors found that many of their participants felt SRE was outdated and contained limited viewpoints that often excluded the LGBTQ+ community. Questions of teachers ability to lead SRE lessons were also raised. 
+With this research added from work I had previously done, I then set out to look for more recent sources which stated that the SRE curriculum is outdated. I found a study in 2020 titled "Teachers and pupils under pressure: UK teachers’ views on the content and format of personal, social, health and economic education" which discussed all aspects of PSHE education. In the section on sex and relationships education the authors found that many of their participants felt SRE was outdated and contained limited viewpoints that often excluded the LGBTQ+ community. Questions of teachers ability to lead SRE lessons were also raised. I added this in support to my proposal.
+
+Finally this week I reviewed my proposal, condesning the project management section into one paragraph, and made some small adjustments / grammar fixes. 
 
 ### Next Steps
+- Submit proposal
+- Discuss research documentation and demo with Lloyd
