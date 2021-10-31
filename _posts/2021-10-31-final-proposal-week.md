@@ -17,7 +17,7 @@ I started by digging into the pool of game based learning research I have alread
 
 With this research added from work I had previously done, I then set out to look for more recent sources which stated that the SRE curriculum is outdated. I found a study in 2020 titled "Teachers and pupils under pressure: UK teachers’ views on the content and format of personal, social, health and economic education" which discussed all aspects of PSHE education. In the section on sex and relationships education the authors found that many of their participants felt SRE was outdated and contained limited viewpoints that often excluded the LGBTQ+ community. Questions of teachers ability to lead SRE lessons were also raised. I added this in support to my proposal.
 
-Finally this week I reviewed my proposal, condesning the project management section into one paragraph, and made some small adjustments / grammar fixes. 
+Finally this week I reviewed my proposal, condesning the project management section into one paragraph, and made some small adjustments / grammar fixes. I also read through my proposal to reduce the word count as I was 200 words over. I managed to reduce the whole proposal to 1090 words.
 
 ### Next Steps
 - Submit proposal
