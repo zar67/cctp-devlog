@@ -27,11 +27,8 @@ My idea is to create a Paper's Please style puzzle simulation where the player w
 I spend some time this week documenting my ideas into a simple GDD and drawing up the GUI I would need for this idea.
 
 Lastly this week, I continued looking into the current SRE curriculum and drew up a list of learning objectives I want my project to achieve:
+- Should know about menstrual wellbeing including the key facts about the menstrual cycle.
 - Should know key facts about puberty, the changing adolescent body and menstrual wellbeing.
-- Should know the main changes which take place in males and females, and the implications for emotional and physical health.
-- Should know that all aspects of health can be affected by choices they make in sex and relationships, positively or negatively, for example physical, emotional, mental, sexual and reproductive health and wellbeing.
-- Should know the facts about reproductive health, including fertility and the potential impact of lifestyle on fertility for men and women and menopause.
-- Should know that they have a choice to delay sex or to enjoy intimacy without sex.
 - Should know the facts about the full range of contraceptive choices, efficacy and options available.
 - Should know the facts around pregnancy including miscarriage.
 - Should know that there are choices in relation to pregnancy (with medically and legally accurate, impartial information on all options, including keeping the baby, adoption, abortion and where to get further help).
