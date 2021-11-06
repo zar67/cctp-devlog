@@ -26,4 +26,22 @@ Next I spent some more time working on the design document I currently have for 
 
 Also this week I broke down all the features I want to implement into tasks and created a Trello board to add them into. I then went through each feature and determined the most important ones to implement by the Demo submission, the core mechanics of my game. I also begun to plan out in which order to do these in over the six weeks until the demo submission.
 
+I gave one last look over my proposal and submitted it.
+
+With the git repository setup I also started some simple development, setting up some basic UI screens to get a feel for the flow of the game. Two of the UI screens are shown below:
+
+<p align="center">
+  <img src="{{site.baseurl}}/assets/initial-ui-main-menu.png" alt="Initial UI Main Menu"/>
+</p>
+<p align="center">
+  <img src="{{site.baseurl}}/assets/initial-ui-day-complete.png" alt="Initial UI Day Complete"/>
+</p>
+
+The images show placeholder of buttons which will be updated down the line, the pupose of creating a simple UI setup now is to get a feeling for how the game will work and develop the design in iterations.
+
+Finally this week I looked at some of the existing research reports on Blackboard from previous years and started to lay out my document. I also started to plan what I would like to talk about in the research document, which gave me a starting point for research to undertake from now until the research submission.
+
 ### Next Steps
+- More theoretical research into game based learning and gamification.
+- Research into types of learning and their links to games.
+- Creation of the office game environment in the Unity project.
