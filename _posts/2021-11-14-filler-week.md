@@ -21,6 +21,8 @@ I also had a brief look at some articles on learning styles and their relations 
 
 There is also a broader discussion on how to adapt games for different learning styles and cognitive thinking styles, which is something I want to explore more and think about the complexities of implementing into my project.
 
+I plan to do more next week after the lecture on the research documentation, as I will have a clearer idea of what I need to produce.
+
 ### Next Steps
 - Research more into types of learning and cognitive thinking.
 - Research the theory of game-based learning. 
