@@ -22,3 +22,4 @@ This week I have also been working on my prototype, setting up a working game lo
 ### Next Steps
 - Discuss Research Documentation With Lloyd
 - Start Research Documentation
+- Add Events into Prototype
