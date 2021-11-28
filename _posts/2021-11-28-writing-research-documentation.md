@@ -23,7 +23,7 @@ He also gave me some more ideas for increasing engagement with my prototype:
 
 We also discussed user testing with teachers and students. Closer to the time I want to reach out to schools to ask teachers to user test my artefact, so I need to include this in my research documentation. 
 
-I started my research documentation this week, writing out a draft reseach methodology section as well as an ethics section. The ethical considerations I focused on were:
+I started my research documentation this week, writing out a draft research methodology and ethics sections as well as starting the literature review. The ethical considerations I focused on were:
 - Participants of user testing with data and consent.
 - Content appropriateness for the target audience.
 - Religous views and sex education content.
