@@ -6,8 +6,8 @@ tags: research research-documentation
 ---
 
 ### Tasks
-- Continue writing research sections of research documentation (literature review and findings).
-- Add modifications into prototype.
+- First draft of research documentation.
+- Work on day modifications for prototype.
 
 ### Summary
 This week I finished up a first draft of my research documentation including some research on UI design, game design, flow etc. 
