@@ -18,10 +18,9 @@ Finally this week I have also been working on an avatar system for the player an
 
 <p align="center">
   <img src="{{site.baseurl}}/assets/patient-generation-one.png" alt="Randomly Generated Patient"/>
-</p>
-<p align="center">
   <img src="{{site.baseurl}}/assets/patient-generation-two.png" alt="Randomly Generated Patient"/>
 </p>
+
 <p align="center">
   <img src="{{site.baseurl}}/assets/player-avatar-customisation.png" alt="Player Avatar Customisation"/>
 </p>
