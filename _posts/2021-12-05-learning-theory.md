@@ -14,7 +14,7 @@ This week I mainly wanted to focus on the literature review part of my reserach 
 
 I wrote up a document summarising all my research into clear points that I could easily find and pull out of the document, I then wrote the majority of my literature review. It ended up being very long and so I think I'll need to condense it down later.
 
-Finally this week I also have been populating the profile data for my prototype, adding in a saving system and updating the UI. 
+Finally this week I also have been populating the profile data for my prototype, adding in a saving system and updating the UI to display stats like time played, patients helped etc. 
 
 ### Next Steps
 - First draft of research documentation.
