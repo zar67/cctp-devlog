@@ -2,7 +2,7 @@
 layout: post
 title: "Learning Theory"
 date: 2021-12-05 18:00:00 +0100
-tags: research research-documentation
+tags: research research-documentation prototype
 ---
 
 ### Tasks

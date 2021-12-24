@@ -2,7 +2,7 @@
 layout: post
 title: "Finishing Research Documentation"
 date: 2021-12-12 18:00:00 +0100
-tags: research research-documentation
+tags: research research-documentation prototype
 ---
 
 ### Tasks
