@@ -19,5 +19,12 @@ I created a very basic looking social media feed with a stethoscope for an icon 
   <img src="{{site.baseurl}}/assets/modifications-display.png" alt="Modifications Display"/>
 </p>
 
+Finally I also added in a 'training' system which is essentially a quiz system where the player can test their knowledge. It is important that new topics aren't introduced in this training system, since topics should be introduced in the main game, but giving players a place where they can test their knowledge on the topics they've been introduced to will help them reinforce their understanding.
+
+<p align="center">
+  <img src="{{site.baseurl}}/assets/training-test-question.png" alt="Training Test Question"/>
+</p>
+
 ### Next Steps
 - Start Work On Leaderboard
+- Ensure app meets demo requirements
