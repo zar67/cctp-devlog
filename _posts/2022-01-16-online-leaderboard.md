@@ -25,4 +25,5 @@ Then the data of each user is stored under their unique UID in Firebase Database
 The "valid_name" field of the database contains all the unused usernames, when a new user is created one of these names is selected. When a user takes a username it's removed from the valid names list. When a user changes their name, the old name is put back into the valid names list and the new name removed, the users email is also updated to reflect the new name.
 
 ### Next Steps
--
+- Meet with Lloyd to discuss Demo requirements
+- Prepare for Demo
