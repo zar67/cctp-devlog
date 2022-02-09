@@ -17,5 +17,7 @@ I've added a timer in the format of a cloak at the top of the UI which adds pres
   <img src="{{site.baseurl}}/assets/day-clock-interface.png" alt="Clock interface on UI"/>
 </p>
 
+This week I also added in the logic to disable actions on the desk that aren't needed for any of the active afflications. This means that when the player starts the game there will be a very limited number of actions on the desk to choose from, therefore less overwhelming and easier for them to learn. 
+
 ### Next Steps
 - 
