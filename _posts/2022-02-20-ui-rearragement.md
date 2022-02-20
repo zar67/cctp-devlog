@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "UI Rearragement"
-date: 2022-02-19 18:00:00 +0100
+date: 2022-02-20 18:00:00 +0100
 tags: project-artefact
 ---
 
@@ -40,4 +40,5 @@ I changed the feedback popup to include more information about the action the pl
 </p>
 
 ### Next Steps
-- 
+- Focus on art design and look of project
+- Design tutorial
