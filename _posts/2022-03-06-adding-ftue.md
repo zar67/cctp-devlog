@@ -24,6 +24,10 @@ These popups appear one after the other in quick succession at the very start of
 
 By the end of the week I changed the FTUE to show at the relevent point rather than all at the start.
 
+<video controls>
+  <source src="{{ site.baseurl }}/assets/ftue-video.mp4" type="video/mp4">
+</video>
+
 This week I also added started adding audio into the game by creating an audio manager and adding some simple sounds. I need to do another pass over the sounds at a later date and add in more sounds for different interactions as well, but what I've done is a good start.
 
 ### Next Steps
