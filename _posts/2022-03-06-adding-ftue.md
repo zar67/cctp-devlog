@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Adding FTUE and Audio"
+date: 2022-02-06 18:00:00 +0100
+tags: project-artefact
+---
+
+### Tasks
+- Focus on art design and look of project
+- Design tutorial
+
+### Summary
+This week I mainly focused on the first time user experience of my project, how will users learn how to play the game. I started by simply adding some popups for when the user first plays the game, explaining what each secion of the UI does.
+
+<p align="center">
+  <img src="{{site.baseurl}}/assets/ftue-symptoms.png" alt="FTUE Symptoms Popup"/>
+  <img src="{{site.baseurl}}/assets/ftue-actions.png" alt="FTUE Actions Popup"/>
+  <img src="{{site.baseurl}}/assets/ftue-advice.png" alt="FTUE Advice Popup"/>
+  <img src="{{site.baseurl}}/assets/ftue-information.png" alt="FTUE Information Popup"/>
+  <img src="{{site.baseurl}}/assets/ftue-test-kits.png" alt="FTUE Test Kits Popup"/>
+</p>
+
+These popups appear one after the other in quick succession at the very start of the game. What I realised after implementing is that this is a lot of information for the player to get in quick succession and I should give the player the information when it becomes relevant. For example I should show the symptoms popup when the symptoms show up for the first time, and show the actions popup when the player is expected to use them for the first time. 
+
+By the end of the week I changed the FTUE to show at the relevent point rather than all at the start.
+
+This week I also added started adding audio into the game by creating an audio manager and adding some simple sounds. I need to do another pass over the sounds at a later date and add in more sounds for different interactions as well, but what I've done is a good start.
+
+### Next Steps
