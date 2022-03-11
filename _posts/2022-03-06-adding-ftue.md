@@ -30,4 +30,8 @@ By the end of the week I changed the FTUE to show at the relevent point rather t
 
 This week I also added started adding audio into the game by creating an audio manager and adding some simple sounds. I need to do another pass over the sounds at a later date and add in more sounds for different interactions as well, but what I've done is a good start.
 
+Finally this week I had another meeting with Lloyd to show him the work I'd done since the demo. He liked what I showed him and gave some advice and feedback for the tutorial popups and advice I'd done. 
+
 ### Next Steps
+- Add advice slip printouts
+- Close popups on tap
