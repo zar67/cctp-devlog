@@ -29,5 +29,5 @@ Finally this week I built my game to device and began testing myself just to mak
 - The notification schedule time was too low and became annoying quickly.
 
 ### Next Steps
-- Speak to Lloyd about user testing and ensure the participant information sheet and consent form are correct.
-- Start user testing.
+- Ensure the participant information sheet and consent form are correct.
+- Fix bugs and errors before testing.
