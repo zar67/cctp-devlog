@@ -6,9 +6,13 @@ tags: project-artefact
 ---
 
 ### Tasks
-
+- Collate and analyse test results
+- Complete practice section of report
+- Finish writing report
 
 ### Summary
-
+This week I focused on finishing the first draft of my report and sending it over to Lloyd to get feedback on it.
 
 ### Next Steps
+- Update report with Lloyds feedback
+- Submit
